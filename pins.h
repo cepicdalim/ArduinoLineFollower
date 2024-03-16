@@ -1,6 +1,4 @@
 #define CALIBRATION_SPEED 42
-#define MIN_SPEED 24
-#define MAX_SPEED 56
 #define ENA 11
 #define SAG_AIN1_PIN 10
 #define SAG_PWM_PIN 5
